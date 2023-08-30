@@ -12,4 +12,4 @@ App construido para estudar conceitos do Animated e GraphQl;
 
 ## Demonstração
 
-![App Screenshot](https://res.cloudinary.com/sk84all/image/upload/v1693433110/GitHub%20Projects/video5152384682590995220-min_1_kpfb6l.gif)
+![App Screenshot](https://res.cloudinary.com/sk84all/image/upload/c_thumb,w_200,g_face/v1693433110/GitHub%20Projects/video5152384682590995220-min_1_kpfb6l.gif)
